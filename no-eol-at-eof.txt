@@ -1,1 +1,2 @@
 data without eol at eof
+merged no eol
