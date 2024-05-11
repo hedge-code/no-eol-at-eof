@@ -1,1 +1,2 @@
 data with eol at eof
+merged eol
